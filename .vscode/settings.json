@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder}\\db",
+            "dialect": "SQLite",
+            "isActive": false,
+            "isConnected": false,
+            "name": "dd"
+        },
+        {
+            "database": "G:\\PROGS\\img-be\\dbase\\imgdb.db",
+            "dialect": "SQLite",
+            "name": "img"
+        }
+    ]
+}
